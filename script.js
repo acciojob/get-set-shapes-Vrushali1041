@@ -1,9 +1,4 @@
 //complete this code
-// class Rectangle {}
-
-// class Square extends Animal {}
-
-
 class Rectangle {
   constructor(width, height) {
     this._width = width;
